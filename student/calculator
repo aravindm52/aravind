@@ -1,0 +1,27 @@
+import java.util.scanner;
+piblic class calcilator{
+    public ststic void main(string[]args)
+    {
+        scanner scanner=new scanner(system.in);
+        system.out.println("Simple calculator");
+        system.out.println("select operation");
+        system.out.println("1.Add");
+        system.out.println(2."subtract");
+        system.out.println("3.Multiply");
+        system.out.println("4.Divide");
+        system.out.println)("Enter choice(1/2/3/4):");
+        int choice=scanner.nextInt();
+        system.out.println("Enter first number:");
+        duble num1=scanner.nextdouble();
+        system.out.print("Enter second number:");
+        double num2=scanner.nextdouble();
+        double result=0;
+        switch(choice)
+        {
+            case 1:
+            result=num1+num2;
+            system.out.println()
+                
+
+    }
+}
